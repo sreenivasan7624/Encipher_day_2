@@ -1,5 +1,6 @@
 # Encipher_day_2
 Text Formatting Tags & Links:
+
 1.⁠ ⁠Create a page showing 10 formatting tags.
 2.⁠ ⁠Write an article using headings (h1–h6).
 3.⁠ ⁠Write a paragraph and highlight important points using bold, strong, mark.
